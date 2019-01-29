@@ -1,0 +1,3 @@
+# django_elasticsaerch_dsl_study
+这是我用来学习django-elasticserch-dsl的项目
+django 映射到elasticsearch数据库的学习项目。
